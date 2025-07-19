@@ -29,3 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitigyajoshi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nick-Joshi.Nick-Joshi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Joshi&theme=dark&hide_border=true)](https://git.io/streak-stats)
