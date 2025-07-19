@@ -22,3 +22,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-8B0000?style=for-the-badge&logo=kaspersky&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitigyajoshi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
