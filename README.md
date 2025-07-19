@@ -32,3 +32,12 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nick-Joshi.Nick-Joshi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Joshi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 🤝 Let’s Collaborate
+
+I’m open to freelance and collaborative projects. If you’re building something cool with:
+- Flutter 🔹
+- Cybersecurity 🕵️
+- ML/AI 🤖
+
+Let’s connect! 📫
