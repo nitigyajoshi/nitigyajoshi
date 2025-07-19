@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**nitigyajoshi/nitigyajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working as freelance developer and designer 
+- 🌱 I’m currently learning machine learning and cyber security
+- 👯 I’m looking to collaborate on ai ml projects,cyber security 
+- 🤔 I’m looking for help with : advancing my skills in AI, cybersecurity, and robotics — especially real-world applications.
+- 💬 Ask me about :  Flutter development, UI/UX design, Firebase, and launching tech projects as a freelancer
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-joshi)  
+- 😄 Pronouns: Nick 
+- ⚡ Fun fact: I once debugged an entire app in my sleep — and woke up to fix it for real. 🚀
+
+🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-joshi)  
+
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-8B0000?style=for-the-badge&logo=kaspersky&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
