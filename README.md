@@ -28,6 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitigyajoshi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitigyajoshi&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
